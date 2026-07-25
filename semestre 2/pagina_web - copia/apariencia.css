@@ -1,0 +1,12 @@
+h1 {text-align: center}
+h1:hover {color: blue;}
+button {color: red;}
+textarea {
+    width: 300px;
+    height: 120px;
+    padding: 10px;
+    font-size: 16px;
+    resize: none;
+}
+#hola {text-align: center;}
+ol {text-align: center;}
